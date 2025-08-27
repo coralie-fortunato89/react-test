@@ -1,0 +1,14 @@
+[
+  {
+    "relation":[
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target":{
+      "namespace":"android_app",
+      "package_name":"fr.enovacom.carnet",
+      "sha256_cert_fingerprints":[
+        "40:DB:BE:9E:AF:F9:8C:7F:D2:B1:60:AB:E7:78:11:00:8F:F6:EC:1F:F8:7F:FF:69:6C:43:C1:C9:AF:36:35:65"
+      ]
+    }
+  }
+]
